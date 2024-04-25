@@ -3,3 +3,5 @@ dvclive>=3.0.1
 fastai
 python-box
 sagemaker
+azureml-core
+azure-identity
